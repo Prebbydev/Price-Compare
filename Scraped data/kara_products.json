@@ -1,0 +1,852 @@
+[
+    {
+        "product_id": "d58e1dcd",
+        "product_name": "MacBook Air M1| 13INCH | 25GB+8GB",
+        "category": "laptops",
+        "brand": "Unknown",
+        "price": "NGN 1,265,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/macbook-air-m1-13inch-25gb-8gb",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/a/i/airm1spg1_5000x.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "5bf4a131",
+        "product_name": "Samsung 27\" Full HD Led Curved Monitor With Super Slim Design LC27F390FHMXZN",
+        "category": "laptops",
+        "brand": "Unknown",
+        "price": "NGN 315,800.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/samsung-27-full-hd-led-curved-monitor-with-super-slim-design-lc27f390fhmxzn",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/s/a/samsung-24-full-hd-curved-monitor-lc24f390fhmxzn-01_1_1.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "cdaa8dc2",
+        "product_name": "Lenovo 5 15ITL05 Core i5-1135G7",
+        "category": "laptops",
+        "brand": "Unknown",
+        "price": "NGN 648,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/lenovo-5-15itl05-core-i5-1135g7",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/6/1/61nilqz-xxl._ac_sx569_.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "b9b9f5b2",
+        "product_name": "Milesight Dome 2MP MS-C2975-PB",
+        "category": "laptops",
+        "brand": "Unknown",
+        "price": "NGN 142,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/milesight-dome-2mp-ms-c2975-pb",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/2/m/2mp.png",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "1b62b432",
+        "product_name": "Lenovo Thinkpad  T14 Gen Core i5-1145G7",
+        "category": "laptops",
+        "brand": "Unknown",
+        "price": "NGN 1,091,200.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/lenovo-thinkpad-t14-gen-core-i5-1145g7",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/l/e/let_1.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "8bc9f529",
+        "product_name": "Lenovo Ideapad 5 14ITL05 Core i7-1165G7",
+        "category": "laptops",
+        "brand": "Unknown",
+        "price": "NGN 473,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/lenovo-ideapad-5-14itl05-core-i7-1165g7",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/0/5/05.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "e05c2183",
+        "product_name": "Lenovo ThinkPad T14 Gen 3 Core™️ i7-1260P Quad Core",
+        "category": "laptops",
+        "brand": "Unknown",
+        "price": "NGN 1,100,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/lenovo-thinkpad-t14-gen-3-coretm-i7-1260p-quad-core",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/9/a/9a.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "52f87fa6",
+        "product_name": "Lenovo Idealpad 3 14ITL6 Core i7-1165G7",
+        "category": "laptops",
+        "brand": "Unknown",
+        "price": "NGN 508,500.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/lenovo-idealpad-3-14itl6-core-i7-1165g7",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/1/4/14itl6.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "0a44f909",
+        "product_name": "Lenovo ThinkPad X1 EXTREME Gen 4 Core™️ i7-11800H",
+        "category": "laptops",
+        "brand": "Unknown",
+        "price": "NGN 900,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/lenovo-thinkpad-x1-extreme-gen-4-coretm-i7-11800h",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/8/a/8a.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "75476e0b",
+        "product_name": "Lenovo Thinkpad T14s Gen 2 Core i5-1145G7",
+        "category": "laptops",
+        "brand": "Unknown",
+        "price": "NGN 1,046,100.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/lenovo-thinkpad-t14s-gen-2-core-i5-1145g7",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/t/1/t14s.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "9cc6295a",
+        "product_name": "Snowsea Chest Freezer 400L",
+        "category": "home-appliances",
+        "brand": "Unknown",
+        "price": "NGN 483,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/snowsea-chest-freezer-400l",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/1/_/1_34_.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "eb7fced4",
+        "product_name": "Midea  85L Single Door MDRD133GG50",
+        "category": "home-appliances",
+        "brand": "Unknown",
+        "price": "NGN 207,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/midea-85l-single-door-mdrd133gg50",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/e/j/eju1xgfpju9ddlltz8asuelq82w0wcv4y5rkxijh.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "98112898",
+        "product_name": "Midea 45Liters Single Door Refrigerator MDRD86FGG50",
+        "category": "home-appliances",
+        "brand": "Unknown",
+        "price": "NGN 181,500.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/midea-45liters-single-door-refrigerator-mdrd86fgg50",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/m/i/mideafreezer7.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "f98b62dc",
+        "product_name": "Midea Air Conditioner Super inverter, wall-mounted split 1.5HP MSCB1-12CRFN8",
+        "category": "home-appliances",
+        "brand": "Unknown",
+        "price": "NGN 782,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/midea-air-conditioner-super-inverter-wall-mounted-split-1-5hp-mscb1-12crfn8",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/m/i/mideaac3_daf89294-29f0-48d3-b9cd-d33809b1e6ff_2.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "43569604",
+        "product_name": "MIDEA AC SPLIT 1HP  INVERTER MSAF24A-09CRDNI",
+        "category": "home-appliances",
+        "brand": "Unknown",
+        "price": "NGN 621,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/midea-ac-split-1hp-inverter-msaf24a-09crdni",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/m/i/mideaac3_daf89294-29f0-48d3-b9cd-d33809b1e6ff.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "b897bd5b",
+        "product_name": "MIDEA AC – MSAF-12CRN1 12000BTU R410A SPLIT AC (1.5HP)",
+        "category": "home-appliances",
+        "brand": "Unknown",
+        "price": "NGN 511,800.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/midea-ac-msaf-12crn1-12000btu-r410a-split-ac-1-5hp",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/1/_/1_33__1.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "99cd3e64",
+        "product_name": "Midea 1HP SPLIT AIR-CONDITIONER MSA-09CRNI",
+        "category": "home-appliances",
+        "brand": "Unknown",
+        "price": "NGN 478,400.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/midea-1hp-split-air-conditioner-msa-09crni",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/1/_/1_33_.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "3adaba20",
+        "product_name": "Nikai KETTLE (GLASS POT) NK323G",
+        "category": "home-appliances",
+        "brand": "Unknown",
+        "price": "NGN 34,500.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/nikai-kettle-glass-pot-nk323g",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/n/k/nk323g.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "caa1112f",
+        "product_name": "Nikai Sandwich Maker NGT928A1",
+        "category": "home-appliances",
+        "brand": "Unknown",
+        "price": "NGN 49,500.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/nikai-sandwich-maker-ngt928a1",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/n/g/ngt928a1.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "8af5676c",
+        "product_name": "Nikai 20liters Microwave Oven NMO2010DB",
+        "category": "home-appliances",
+        "brand": "Unknown",
+        "price": "NGN 138,500.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/nikai-microwave-oven-nmo2010db",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/n/m/nmo2010db.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "b5c4a18c",
+        "product_name": "Midea 1HP SPLIT AIR-CONDITIONER MSA-09CRNI",
+        "category": "electronics",
+        "brand": "Unknown",
+        "price": "NGN 478,400.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/midea-1hp-split-air-conditioner-msa-09crni",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/1/_/1_33_.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "16baa4af",
+        "product_name": "A&E AESG90-W-10KVA Stabilizer",
+        "category": "electronics",
+        "brand": "Unknown",
+        "price": "NGN 402,500.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/a-e-aesg90-w-10kva-stabilizer",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/w/h/whatsapp_image_2024-10-23_at_07.22.37.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "f3717b26",
+        "product_name": "Nikai KETTLE (GLASS POT) NK323G",
+        "category": "electronics",
+        "brand": "Unknown",
+        "price": "NGN 34,500.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/nikai-kettle-glass-pot-nk323g",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/n/k/nk323g.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "67a6f63c",
+        "product_name": "Nikai Vacuum Cleaner NVC350T",
+        "category": "electronics",
+        "brand": "Unknown",
+        "price": "NGN 118,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/nikai-vacuum-cleaner-nvc350t",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/n/v/nvc350t-1.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "04c25a5c",
+        "product_name": "Nikai 20liters Microwave Oven NMO2010DB",
+        "category": "electronics",
+        "brand": "Unknown",
+        "price": "NGN 138,500.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/nikai-microwave-oven-nmo2010db",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/n/m/nmo2010db.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "6739578d",
+        "product_name": "Nikai Steam Iron NS1909TSX",
+        "category": "electronics",
+        "brand": "Unknown",
+        "price": "NGN 37,500.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/nikai-steam-iron-ns1909tsx",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/n/s/nsi909tsx.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "ff0c07ad",
+        "product_name": "Nikai Steam Iron NS1707TS",
+        "category": "electronics",
+        "brand": "Unknown",
+        "price": "NGN 36,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/nikai-steam-iron-ns1707ts",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/n/s/nsi707ts.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "1b73b812",
+        "product_name": "Nikai Air Fryer NAF388D2",
+        "category": "electronics",
+        "brand": "Unknown",
+        "price": "NGN 116,600.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/nikai-air-fryer-naf388d2",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/n/a/naf388d2.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "4055fca0",
+        "product_name": "Nikai Blender NB894",
+        "category": "electronics",
+        "brand": "Unknown",
+        "price": "NGN 97,500.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/nikai-blender-nb894",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/n/b/nb894-2.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "523f4bb3",
+        "product_name": "Nikai Coffee Maker NCM1210AX",
+        "category": "electronics",
+        "brand": "Unknown",
+        "price": "NGN 34,100.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/nikai-coffee-maker-ncm1210ax",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/1/5/1558-ncm1210ax-.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "b8d2873b",
+        "product_name": "Honda Water Pump WL-20",
+        "category": "generators",
+        "brand": "Unknown",
+        "price": "NGN 376,200.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/honda-generator-wl-20",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/w/l/wl20xh_.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "be27dbcc",
+        "product_name": "Honda 5.5KVA  Generator EZ6500CXS",
+        "category": "generators",
+        "brand": "Unknown",
+        "price": "NGN 1,242,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/honda-5kva-generator-ez6500cxs",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/e/z/ez6500cxs-main-3.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "7e81419a",
+        "product_name": "Iwin 3000w Solar Generator",
+        "category": "generators",
+        "brand": "Unknown",
+        "price": "NGN 1,437,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/iwin-3kva-solar-generator",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/w/h/whatsapp_image_2023-09-06_at_15.22.08.jpeg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "bd84e37f",
+        "product_name": "FG Welson P50 Generator 45kva",
+        "category": "generators",
+        "brand": "Unknown",
+        "price": "NGN 9,684,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/fg-welson-p50-generator-45kva",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/f/g/fg_45kva_gen.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "e5606be7",
+        "product_name": "Qasa Solar Generator SPG 800",
+        "category": "generators",
+        "brand": "Unknown",
+        "price": "NGN 511,800.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/qasa-solar-generator-spg-500",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/q/a/qasa_5pg_500_1.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "192165c0",
+        "product_name": "Qasa Solar Generator SPG 800 [ WITH SOLAR PANEL]",
+        "category": "generators",
+        "brand": "Unknown",
+        "price": "NGN 613,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/qasa-solar-generator-spg-500-with-solar-panel",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/q/a/qasa_5pg_500.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "eaf41166",
+        "product_name": "Sumec Firman 4.8kva Generator G20",
+        "category": "generators",
+        "brand": "Unknown",
+        "price": "NGN 440,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/sumec-firman-4-8kva-generator-g20",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/s/u/sumec_eg20_generator_1.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "c8fa31da",
+        "product_name": "Honda 5.5kva Manual Generator EZ6500X",
+        "category": "generators",
+        "brand": "Unknown",
+        "price": "NGN 1,242,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/honda-5-5kva-manual-generator-ez6500x",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/h/o/honda_5.5kva_generator.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "106d700b",
+        "product_name": "Qasa Solar Power Portable Generator without Solar Panel",
+        "category": "generators",
+        "brand": "Unknown",
+        "price": "NGN 185,200.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/qasa-solar-power-portable-generator-with-solar-panel",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/q/a/qasa_portable_solar_power_1.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "17f6fc94",
+        "product_name": "Qasa Portable Solar Power Inverter SPP168ADC",
+        "category": "generators",
+        "brand": "Unknown",
+        "price": "NGN 214,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/qasa-portable-solar-power-inverter-spp168adc-with-solar-panel",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/q/a/qasa_portable_solar_power.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "9eafe60b",
+        "product_name": "HP Color LaserJet Pro MFP M183FW Printer-7KW56A",
+        "category": "printers",
+        "brand": "Unknown",
+        "price": "NGN 603,800.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/hp-color-laserjet-pro-mfp-m183w-printer-7kw56a",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/l/a/lasr_pro.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "b86f187f",
+        "product_name": "HP LASERJET M442DN MFP 8AF71A",
+        "category": "printers",
+        "brand": "Unknown",
+        "price": "NGN 1,357,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/hp-laserjet-m442dn-mfp-8af71a",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/1/_/1_31_.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "4d7dfa06",
+        "product_name": "HP Color Laserjet 179FNW Multifunction Printer-4ZB97A",
+        "category": "printers",
+        "brand": "Unknown",
+        "price": "NGN 603,800.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/hp-color-laserjet-179fnw-multifunction-printer-4zb97a",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/c/o/coll.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "9185cd6a",
+        "product_name": "HP Color Laserjet Pro M454DW Printer-W1Y45A",
+        "category": "printers",
+        "brand": "Unknown",
+        "price": "NGN 713,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/hp-color-laserjet-pro-m454dw-printer-w1y454",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/h/p/hpo.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "2da4f8ff",
+        "product_name": "HP Color Laserjet Pro M255DW Printer-7KW64A",
+        "category": "printers",
+        "brand": "Unknown",
+        "price": "NGN 506,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/hp-color-laserjet-pro-m255dw-printer-7kw64a",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/c/o/colo.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "77b865da",
+        "product_name": "HP SMART TANK 720 ALL-IN-ONE PRINTER 6UU46A",
+        "category": "printers",
+        "brand": "Unknown",
+        "price": "NGN 434,700.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/hp-smart-tank-720-all-in-one-printer-6uu46a",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/1/_/1_30_.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "553b52cb",
+        "product_name": "HP LaserJet Multifunction 137FNW Printer-4ZB84A",
+        "category": "printers",
+        "brand": "Unknown",
+        "price": "NGN 391,000.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/hp-laserjet-multifunction-137fnw-printer-4zb84a",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/h/p/hp-laser-135w-multifunction-printer-4zb83a-1.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "cba7a51d",
+        "product_name": "HP SMART TANK 515 WIRELESS ALL-IN-ONE 1TJ09A",
+        "category": "printers",
+        "brand": "Unknown",
+        "price": "NGN 402,500.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/hp-smart-tank-515-wireless-all-in-one-1tj09a",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/2/_/2_6.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "cc091a6a",
+        "product_name": "HP LaserJet Multifunction M141A Printer-7MD73A",
+        "category": "printers",
+        "brand": "Unknown",
+        "price": "NGN 293,500.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/hp-laserjet-multifunction-m141a-printer-7md73a",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/g/g/gg.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    },
+    {
+        "product_id": "73a42397",
+        "product_name": "HP M15A LaserJet Pro Printer-W2G50A",
+        "category": "printers",
+        "brand": "Unknown",
+        "price": "NGN 178,500.00",
+        "availability": "In stock",
+        "average_rating": "0",
+        "number_of_reviews": "0",
+        "url": "https://kara.com.ng/hp-m15a-laserjet-pro-printer-w2g50a",
+        "image_url": "https://kara.com.ng/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/1/-/1-2.jpg",
+        "store": {
+            "name": "Kara",
+            "website_url": "https://www.kara.com.ng",
+            "location": "Nigeria"
+        }
+    }
+]

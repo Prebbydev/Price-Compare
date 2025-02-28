@@ -5,14 +5,14 @@ const PriceAlerts = () => {
     { id: 1, name: "Instant Pot Pressure Cooker", price: 50, image: "/images/pressure-cooker.jpg" },
     { id: 2, name: "Bose Noise Cancelling Headphones", price: 300, image: "/images/headphones.jpg" }
   ]);
-  const [newAlert, setNewAlert] = useState({ url: "", price: "" });
+  const [newAlert, setNewAlert] = useState({ name: "", price: "" });
 
   const handleInputChange = (e) => {
     setNewAlert({ ...newAlert, [e.target.name]: e.target.value });
   };
 
   const addAlert = () => {
-    if (!newAlert.url || !newAlert.price) return;
+    if (!newAlert.name || !newAlert.price) return;
     const newEntry = {
       id: alerts.length + 1,
       name: `Product ${alerts.length + 1}`, // Placeholder name
@@ -20,7 +20,7 @@ const PriceAlerts = () => {
       image: "/images/default-product.jpg", // Default placeholder image
     };
     setAlerts([...alerts, newEntry]);
-    setNewAlert({ url: "", price: "" });
+    setNewAlert({ name: "", price: "" });
   };
 
   return (
@@ -32,8 +32,8 @@ const PriceAlerts = () => {
       <div className="space-y-3 bg-white p-4 rounded-lg shadow">
         <input
           type="text"
-          name="url"
-          placeholder="Product URL"
+          name="name"
+          placeholder="Product name"
           value={newAlert.url}
           onChange={handleInputChange}
           className="w-full border p-2 rounded"

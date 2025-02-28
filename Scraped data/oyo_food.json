@@ -1,0 +1,432 @@
+[
+    {
+      "product_id": "rice_bodija",
+      "product_name": "50kg Bag of Rice",
+      "category": "foodstuff",
+      "brand": "Local",
+      "number_of_reviews": 15,
+      "url": "https://www.example.com/rice-bodija",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Parboiled_rice.png",
+      "price": 64000,
+      "availability": true,
+      "average_rating": 4.5,
+      "store": {
+        "name": "Bodija Market",
+        "website_url": "https://www.example.com/bodija-market",
+        "location": "Oyo"
+      }
+    },
+    {
+      "product_id": "beans_bodija",
+      "product_name": "50kg Bag of Beans",
+      "category": "foodstuff",
+      "brand": "Oloyin",
+      "number_of_reviews": 10,
+      "url": "https://www.example.com/beans-bodija",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Brown_Beans.jpg",
+      "price": 53000,
+      "availability": true,
+      "average_rating": 4.3,
+      "store": {
+        "name": "Bodija Market",
+        "website_url": "https://www.example.com/bodija-market",
+        "location": "Oyo"
+      }
+    },
+    {
+      "product_id": "tomato_bodija",
+      "product_name": "Basket of Tomatoes",
+      "category": "foodstuff",
+      "brand": "Fresh Tomatoes",
+      "number_of_reviews": 12,
+      "url": "https://www.example.com/tomato-bodija",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+      "price": 18500,
+      "availability": true,
+      "average_rating": 4.4,
+      "store": {
+        "name": "Bodija Market",
+        "website_url": "https://www.example.com/bodija-market",
+        "location": "Oyo"
+      }
+    },
+    {
+      "product_id": "garri_bodija",
+      "product_name": "50kg Bag of Garri",
+      "category": "foodstuff",
+      "brand": "Ijebu",
+      "number_of_reviews": 8,
+      "url": "https://www.example.com/garri-bodija",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Garri_Processing.jpg",
+      "price": 41000,
+      "availability": true,
+      "average_rating": 4.1,
+      "store": {
+        "name": "Bodija Market",
+        "website_url": "https://www.example.com/bodija-market",
+        "location": "Oyo"
+      }
+    },
+    {
+      "product_id": "onion_bodija",
+      "product_name": "Bag of Onions (100kg)",
+      "category": "foodstuff",
+      "brand": "Red Onions",
+      "number_of_reviews": 9,
+      "url": "https://www.example.com/onion-bodija",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Onions_market.jpg",
+      "price": 72000,
+      "availability": true,
+      "average_rating": 4.2,
+      "store": {
+        "name": "Bodija Market",
+        "website_url": "https://www.example.com/bodija-market",
+        "location": "Oyo"
+      }
+    },
+
+    {
+        "product_id": "rice_ojaoba",
+        "product_name": "50kg Bag of Rice",
+        "category": "foodstuff",
+        "brand": "Local",
+        "number_of_reviews": 18,
+        "url": "https://www.example.com/rice-ojaoba",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Parboiled_rice.png",
+        "price": 63500,
+        "availability": true,
+        "average_rating": 4.6,
+        "store": {
+          "name": "Oja Oba Market",
+          "website_url": "https://www.example.com/ojaoba-market",
+          "location": "Oyo"
+        }
+      },
+      {
+        "product_id": "beans_ojaoba",
+        "product_name": "50kg Bag of Beans",
+        "category": "foodstuff",
+        "brand": "Oloyin",
+        "number_of_reviews": 12,
+        "url": "https://www.example.com/beans-ojaoba",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Brown_Beans.jpg",
+        "price": 52500,
+        "availability": true,
+        "average_rating": 4.5,
+        "store": {
+          "name": "Oja Oba Market",
+          "website_url": "https://www.example.com/ojaoba-market",
+          "location": "Oyo"
+        }
+      },
+      {
+        "product_id": "tomato_ojaoba",
+        "product_name": "Basket of Tomatoes",
+        "category": "foodstuff",
+        "brand": "Fresh Tomatoes",
+        "number_of_reviews": 14,
+        "url": "https://www.example.com/tomato-ojaoba",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+        "price": 18000,
+        "availability": true,
+        "average_rating": 4.3,
+        "store": {
+          "name": "Oja Oba Market",
+          "website_url": "https://www.example.com/ojaoba-market",
+          "location": "Oyo"
+        }
+      },
+      {
+        "product_id": "garri_ojaoba",
+        "product_name": "50kg Bag of Garri",
+        "category": "foodstuff",
+        "brand": "Ijebu",
+        "number_of_reviews": 10,
+        "url": "https://www.example.com/garri-ojaoba",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Garri_Processing.jpg",
+        "price": 40500,
+        "availability": true,
+        "average_rating": 4.2,
+        "store": {
+          "name": "Oja Oba Market",
+          "website_url": "https://www.example.com/ojaoba-market",
+          "location": "Oyo"
+        }
+      },
+      {
+        "product_id": "onion_ojaoba",
+        "product_name": "Bag of Onions (100kg)",
+        "category": "foodstuff",
+        "brand": "Red Onions",
+        "number_of_reviews": 11,
+        "url": "https://www.example.com/onion-ojaoba",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Onions_market.jpg",
+        "price": 71500,
+        "availability": true,
+        "average_rating": 4.4,
+        "store": {
+          "name": "Oja Oba Market",
+          "website_url": "https://www.example.com/ojaoba-market",
+          "location": "Oyo"
+        }
+      },
+      {
+        "product_id": "rice_akesan",
+        "product_name": "50kg Bag of Rice",
+        "category": "foodstuff",
+        "brand": "Local",
+        "number_of_reviews": 15,
+        "url": "https://www.example.com/rice-akesan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Parboiled_rice.png",
+        "price": 63000,
+        "availability": true,
+        "average_rating": 4.5,
+        "store": {
+          "name": "Akesan Market",
+          "website_url": "https://www.example.com/akesan-market",
+          "location": "Oyo"
+        }
+      },
+      {
+        "product_id": "beans_akesan",
+        "product_name": "50kg Bag of Beans",
+        "category": "foodstuff",
+        "brand": "Oloyin",
+        "number_of_reviews": 12,
+        "url": "https://www.example.com/beans-akesan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Brown_Beans.jpg",
+        "price": 51500,
+        "availability": true,
+        "average_rating": 4.4,
+        "store": {
+          "name": "Akesan Market",
+          "website_url": "https://www.example.com/akesan-market",
+          "location": "Oyo"
+        }
+      },
+      {
+        "product_id": "tomato_akesan",
+        "product_name": "Basket of Tomatoes",
+        "category": "foodstuff",
+        "brand": "Fresh Tomatoes",
+        "number_of_reviews": 16,
+        "url": "https://www.example.com/tomato-akesan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+        "price": 17500,
+        "availability": true,
+        "average_rating": 4.2,
+        "store": {
+          "name": "Akesan Market",
+          "website_url": "https://www.example.com/akesan-market",
+          "location": "Oyo"
+        }
+      },
+      {
+        "product_id": "garri_akesan",
+        "product_name": "50kg Bag of Garri",
+        "category": "foodstuff",
+        "brand": "Ijebu",
+        "number_of_reviews": 10,
+        "url": "https://www.example.com/garri-akesan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Garri_Processing.jpg",
+        "price": 40000,
+        "availability": true,
+        "average_rating": 4.3,
+        "store": {
+          "name": "Akesan Market",
+          "website_url": "https://www.example.com/akesan-market",
+          "location": "Oyo"
+        }
+      },
+      {
+        "product_id": "onion_akesan",
+        "product_name": "Bag of Onions (100kg)",
+        "category": "foodstuff",
+        "brand": "Red Onions",
+        "number_of_reviews": 11,
+        "url": "https://www.example.com/onion-akesan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Onions_market.jpg",
+        "price": 70500,
+        "availability": true,
+        "average_rating": 4.5,
+        "store": {
+          "name": "Akesan Market",
+          "website_url": "https://www.example.com/akesan-market",
+          "location": "Oyo"
+        }
+      },
+      
+    {
+        "product_id": "rice_sango",
+        "product_name": "50kg Bag of Rice",
+        "category": "foodstuff",
+        "brand": "Local",
+        "number_of_reviews": 20,
+        "url": "https://www.example.com/rice-sango",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Parboiled_rice.png",
+        "price": 63500,
+        "availability": true,
+        "average_rating": 4.6,
+        "store": {
+        "name": "Sango Market",
+        "website_url": "https://www.example.com/sango-market",
+        "location": "Oyo"
+        }
+    },
+    {
+        "product_id": "beans_sango",
+        "product_name": "50kg Bag of Beans",
+        "category": "foodstuff",
+        "brand": "Oloyin",
+        "number_of_reviews": 18,
+        "url": "https://www.example.com/beans-sango",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Brown_Beans.jpg",
+        "price": 52000,
+        "availability": true,
+        "average_rating": 4.5,
+        "store": {
+        "name": "Sango Market",
+        "website_url": "https://www.example.com/sango-market",
+        "location": "Oyo"
+        }
+    },
+    {
+        "product_id": "tomato_sango",
+        "product_name": "Basket of Tomatoes",
+        "category": "foodstuff",
+        "brand": "Fresh Tomatoes",
+        "number_of_reviews": 22,
+        "url": "https://www.example.com/tomato-sango",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+        "price": 18000,
+        "availability": true,
+        "average_rating": 4.3,
+        "store": {
+        "name": "Sango Market",
+        "website_url": "https://www.example.com/sango-market",
+        "location": "Oyo"
+        }
+    },
+    {
+        "product_id": "garri_sango",
+        "product_name": "50kg Bag of Garri",
+        "category": "foodstuff",
+        "brand": "Ijebu",
+        "number_of_reviews": 15,
+        "url": "https://www.example.com/garri-sango",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Garri_Processing.jpg",
+        "price": 40500,
+        "availability": true,
+        "average_rating": 4.4,
+        "store": {
+        "name": "Sango Market",
+        "website_url": "https://www.example.com/sango-market",
+        "location": "Oyo"
+        }
+    },
+    {
+        "product_id": "onion_sango",
+        "product_name": "Bag of Onions (100kg)",
+        "category": "foodstuff",
+        "brand": "Red Onions",
+        "number_of_reviews": 14,
+        "url": "https://www.example.com/onion-sango",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Onions_market.jpg",
+        "price": 71000,
+        "availability": true,
+        "average_rating": 4.5,
+        "store": {
+        "name": "Sango Market",
+        "website_url": "https://www.example.com/sango-market",
+        "location": "Oyo"
+        }
+    },
+    {
+        "product_id": "rice_gbagi",
+        "product_name": "50kg Bag of Rice",
+        "category": "foodstuff",
+        "brand": "Local",
+        "number_of_reviews": 25,
+        "url": "https://www.example.com/rice-gbagi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Parboiled_rice.png",
+        "price": 64000,
+        "availability": true,
+        "average_rating": 4.7,
+        "store": {
+          "name": "Gbagi Market",
+          "website_url": "https://www.example.com/gbagi-market",
+          "location": "Oyo"
+        }
+      },
+      {
+        "product_id": "beans_gbagi",
+        "product_name": "50kg Bag of Beans",
+        "category": "foodstuff",
+        "brand": "Oloyin",
+        "number_of_reviews": 21,
+        "url": "https://www.example.com/beans-gbagi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Brown_Beans.jpg",
+        "price": 52500,
+        "availability": true,
+        "average_rating": 4.6,
+        "store": {
+          "name": "Gbagi Market",
+          "website_url": "https://www.example.com/gbagi-market",
+          "location": "Oyo"
+        }
+      },
+      {
+        "product_id": "tomato_gbagi",
+        "product_name": "Basket of Tomatoes",
+        "category": "foodstuff",
+        "brand": "Fresh Tomatoes",
+        "number_of_reviews": 24,
+        "url": "https://www.example.com/tomato-gbagi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+        "price": 17500,
+        "availability": true,
+        "average_rating": 4.4,
+        "store": {
+          "name": "Gbagi Market",
+          "website_url": "https://www.example.com/gbagi-market",
+          "location": "Oyo"
+        }
+      },
+      {
+        "product_id": "garri_gbagi",
+        "product_name": "50kg Bag of Garri",
+        "category": "foodstuff",
+        "brand": "Ijebu",
+        "number_of_reviews": 17,
+        "url": "https://www.example.com/garri-gbagi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Garri_Processing.jpg",
+        "price": 40000,
+        "availability": true,
+        "average_rating": 4.5,
+        "store": {
+          "name": "Gbagi Market",
+          "website_url": "https://www.example.com/gbagi-market",
+          "location": "Oyo"
+        }
+      },
+      {
+        "product_id": "onion_gbagi",
+        "product_name": "Bag of Onions (100kg)",
+        "category": "foodstuff",
+        "brand": "Red Onions",
+        "number_of_reviews": 16,
+        "url": "https://www.example.com/onion-gbagi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Onions_market.jpg",
+        "price": 70500,
+        "availability": true,
+        "average_rating": 4.6,
+        "store": {
+          "name": "Gbagi Market",
+          "website_url": "https://www.example.com/gbagi-market",
+          "location": "Oyo"
+        }
+      }
+      
+      
+  ]
+  

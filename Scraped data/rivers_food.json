@@ -1,0 +1,361 @@
+[
+    {
+      "product_id": "rice_mile1",
+      "product_name": "50kg Bag of Rice",
+      "category": "grains",
+      "brand": "Royal Stallion",
+      "number_of_reviews": 85,
+      "url": "https://mile1market.com/rice-50kg",
+      "image_url": "https://www.bellanaija.com/wp-content/uploads/2021/07/bag-of-rice.jpg",
+      "price": 72000,
+      "availability": true,
+      "average_rating": 4.5,
+      "store": {
+        "name": "Mile 1 Market",
+        "website_url": "https://mile1market.com",
+        "location": "Rivers"
+      }
+    },
+    {
+      "product_id": "beans_mile1",
+      "product_name": "50kg Bag of Honey Beans",
+      "category": "grains",
+      "brand": "Local Market",
+      "number_of_reviews": 45,
+      "url": "https://mile1market.com/beans-50kg",
+      "image_url": "https://www.nigerianfoodtv.com/wp-content/uploads/2021/06/honey-beans.jpg",
+      "price": 48000,
+      "availability": true,
+      "average_rating": 4.2,
+      "store": {
+        "name": "Mile 1 Market",
+        "website_url": "https://mile1market.com",
+        "location": "Rivers"
+      }
+    },
+    {
+      "product_id": "garri_mile1",
+      "product_name": "50kg Bag of Yellow Garri",
+      "category": "grains",
+      "brand": "Local Market",
+      "number_of_reviews": 32,
+      "url": "https://mile1market.com/garri-50kg",
+      "image_url": "https://www.finelib.com/images/listings/36213.jpg",
+      "price": 30000,
+      "availability": true,
+      "average_rating": 4.0,
+      "store": {
+        "name": "Mile 1 Market",
+        "website_url": "https://mile1market.com",
+        "location": "Rivers"
+      }
+    },
+    {
+      "product_id": "onion_mile1",
+      "product_name": "1 Basket of Onions",
+      "category": "vegetables",
+      "brand": "Fresh Farm",
+      "number_of_reviews": 20,
+      "url": "https://mile1market.com/onions-basket",
+      "image_url": "https://www.tradekey.com/images/uploadedimages/products/5/2/3/218125-3.jpg",
+      "price": 18000,
+      "availability": true,
+      "average_rating": 4.3,
+      "store": {
+        "name": "Mile 1 Market",
+        "website_url": "https://mile1market.com",
+        "location": "Rivers"
+      }
+    },
+    {
+      "product_id": "tomato_mile1",
+      "product_name": "1 Basket of Tomatoes",
+      "category": "vegetables",
+      "brand": "Local Farmers",
+      "number_of_reviews": 55,
+      "url": "https://mile1market.com/tomato-basket",
+      "image_url": "https://media.istockphoto.com/id/1131501837/photo/red-tomatoes.jpg",
+      "price": 22000,
+      "availability": true,
+      "average_rating": 4.6,
+      "store": {
+        "name": "Mile 1 Market",
+        "website_url": "https://mile1market.com",
+        "location": "Rivers"
+      }
+    },
+    
+    {
+        "product_id": "rice_creekroad",
+        "product_name": "50kg Bag of Rice",
+        "category": "grains",
+        "brand": "Mama Gold",
+        "number_of_reviews": 73,
+        "url": "https://creekroadmarket.com/rice-50kg",
+        "image_url": "https://www.bellanaija.com/wp-content/uploads/2021/07/bag-of-rice.jpg",
+        "price": 71000,
+        "availability": true,
+        "average_rating": 4.4,
+        "store": { "name": "Creek Road Market", "website_url": "https://creekroadmarket.com", "location": "Rivers" }
+    },
+    {
+        "product_id": "beans_creekroad",
+        "product_name": "50kg Bag of Honey Beans",
+        "category": "grains",
+        "brand": "Local Market",
+        "number_of_reviews": 65,
+        "url": "https://creekroadmarket.com/beans-50kg",
+        "image_url": "https://www.nigerianfoodtv.com/wp-content/uploads/2021/06/honey-beans.jpg",
+        "price": 50000,
+        "availability": true,
+        "average_rating": 4.2,
+        "store": { "name": "Creek Road Market", "website_url": "https://creekroadmarket.com", "location": "Rivers" }
+    },
+    {
+        "product_id": "tomato_creekroad",
+        "product_name": "1 Basket of Tomatoes",
+        "category": "vegetables",
+        "brand": "Local Farmers",
+        "number_of_reviews": 38,
+        "url": "https://creekroadmarket.com/tomato-basket",
+        "image_url": "https://media.istockphoto.com/id/1131501837/photo/red-tomatoes.jpg",
+        "price": 27000,
+        "availability": true,
+        "average_rating": 4.3,
+        "store": { "name": "Creek Road Market", "website_url": "https://creekroadmarket.com", "location": "Rivers" }
+    },
+    {
+        "product_id": "onion_creekroad",
+        "product_name": "1 Basket of Onions",
+        "category": "vegetables",
+        "brand": "Fresh Farm",
+        "number_of_reviews": 29,
+        "url": "https://creekroadmarket.com/onions-basket",
+        "image_url": "https://www.tradekey.com/images/uploadedimages/products/5/2/3/218125-3.jpg",
+        "price": 17500,
+        "availability": true,
+        "average_rating": 4.1,
+        "store": { "name": "Creek Road Market", "website_url": "https://creekroadmarket.com", "location": "Rivers" }
+    },
+    {
+        "product_id": "garri_creekroad",
+        "product_name": "50kg Bag of Yellow Garri",
+        "category": "grains",
+        "brand": "Local Market",
+        "number_of_reviews": 45,
+        "url": "https://creekroadmarket.com/garri-50kg",
+        "image_url": "https://www.finelib.com/images/listings/36213.jpg",
+        "price": 34000,
+        "availability": true,
+        "average_rating": 4.0,
+        "store": { "name": "Creek Road Market", "website_url": "https://creekroadmarket.com", "location": "Rivers" }
+    },
+    
+        {
+          "product_id": "rice_oilmill",
+          "product_name": "50kg Bag of Rice",
+          "category": "grains",
+          "brand": "Caprice",
+          "number_of_reviews": 50,
+          "url": "https://oilmillmarket.com/rice-50kg",
+          "image_url": "https://www.bellanaija.com/wp-content/uploads/2021/07/bag-of-rice.jpg",
+          "price": 75000,
+          "availability": true,
+          "average_rating": 4.5,
+          "store": { "name": "Oil Mill Market", "website_url": "https://oilmillmarket.com", "location": "Rivers" }
+        },
+        {
+          "product_id": "beans_oilmill",
+          "product_name": "50kg Bag of Honey Beans",
+          "category": "grains",
+          "brand": "Local Market",
+          "number_of_reviews": 42,
+          "url": "https://oilmillmarket.com/beans-50kg",
+          "image_url": "https://www.nigerianfoodtv.com/wp-content/uploads/2021/06/honey-beans.jpg",
+          "price": 53000,
+          "availability": true,
+          "average_rating": 4.3,
+          "store": { "name": "Oil Mill Market", "website_url": "https://oilmillmarket.com", "location": "Rivers" }
+        },
+        {
+          "product_id": "tomato_oilmill",
+          "product_name": "1 Basket of Tomatoes",
+          "category": "vegetables",
+          "brand": "Local Farmers",
+          "number_of_reviews": 43,
+          "url": "https://oilmillmarket.com/tomato-basket",
+          "image_url": "https://media.istockphoto.com/id/1131501837/photo/red-tomatoes.jpg",
+          "price": 29000,
+          "availability": true,
+          "average_rating": 4.2,
+          "store": { "name": "Oil Mill Market", "website_url": "https://oilmillmarket.com", "location": "Rivers" }
+        },
+        {
+          "product_id": "onion_oilmill",
+          "product_name": "1 Basket of Onions",
+          "category": "vegetables",
+          "brand": "Fresh Farm",
+          "number_of_reviews": 30,
+          "url": "https://oilmillmarket.com/onions-basket",
+          "image_url": "https://www.tradekey.com/images/uploadedimages/products/5/2/3/218125-3.jpg",
+          "price": 18500,
+          "availability": true,
+          "average_rating": 4.0,
+          "store": { "name": "Oil Mill Market", "website_url": "https://oilmillmarket.com", "location": "Rivers" }
+        },
+        {
+          "product_id": "garri_oilmill",
+          "product_name": "50kg Bag of Yellow Garri",
+          "category": "grains",
+          "brand": "Local Market",
+          "number_of_reviews": 40,
+          "url": "https://oilmillmarket.com/garri-50kg",
+          "image_url": "https://www.finelib.com/images/listings/36213.jpg",
+          "price": 36000,
+          "availability": true,
+          "average_rating": 4.1,
+          "store": { "name": "Oil Mill Market", "website_url": "https://oilmillmarket.com", "location": "Rivers" }
+        },
+        
+    {
+        "product_id": "rice_rumuokoro",
+        "product_name": "50kg Bag of Rice",
+        "category": "grains",
+        "brand": "Royal Stallion",
+        "number_of_reviews": 55,
+        "url": "https://rumuokoromarket.com/rice-50kg",
+        "image_url": "https://www.bellanaija.com/wp-content/uploads/2021/07/bag-of-rice.jpg",
+        "price": 76000,
+        "availability": true,
+        "average_rating": 4.6,
+        "store": { "name": "Rumuokoro Market", "website_url": "https://rumuokoromarket.com", "location": "Rivers" }
+    },
+    {
+        "product_id": "beans_rumuokoro",
+        "product_name": "50kg Bag of Honey Beans",
+        "category": "grains",
+        "brand": "Local Market",
+        "number_of_reviews": 47,
+        "url": "https://rumuokoromarket.com/beans-50kg",
+        "image_url": "https://www.nigerianfoodtv.com/wp-content/uploads/2021/06/honey-beans.jpg",
+        "price": 54000,
+        "availability": true,
+        "average_rating": 4.4,
+        "store": { "name": "Rumuokoro Market", "website_url": "https://rumuokoromarket.com", "location": "Rivers" }
+    },
+    {
+        "product_id": "tomato_rumuokoro",
+        "product_name": "1 Basket of Tomatoes",
+        "category": "vegetables",
+        "brand": "Local Farmers",
+        "number_of_reviews": 50,
+        "url": "https://rumuokoromarket.com/tomato-basket",
+        "image_url": "https://media.istockphoto.com/id/1131501837/photo/red-tomatoes.jpg",
+        "price": 29500,
+        "availability": true,
+        "average_rating": 4.3,
+        "store": { "name": "Rumuokoro Market", "website_url": "https://rumuokoromarket.com", "location": "Rivers" }
+    },
+    {
+        "product_id": "onion_rumuokoro",
+        "product_name": "1 Basket of Onions",
+        "category": "vegetables",
+        "brand": "Fresh Farm",
+        "number_of_reviews": 38,
+        "url": "https://rumuokoromarket.com/onions-basket",
+        "image_url": "https://www.tradekey.com/images/uploadedimages/products/5/2/3/218125-3.jpg",
+        "price": 19000,
+        "availability": true,
+        "average_rating": 4.1,
+        "store": { "name": "Rumuokoro Market", "website_url": "https://rumuokoromarket.com", "location": "Rivers" }
+    },
+    {
+        "product_id": "garri_rumuokoro",
+        "product_name": "50kg Bag of Yellow Garri",
+        "category": "grains",
+        "brand": "Local Market",
+        "number_of_reviews": 45,
+        "url": "https://rumuokoromarket.com/garri-50kg",
+        "image_url": "https://www.finelib.com/images/listings/36213.jpg",
+        "price": 36500,
+        "availability": true,
+        "average_rating": 4.2,
+        "store": { "name": "Rumuokoro Market", "website_url": "https://rumuokoromarket.com", "location": "Rivers" }
+    },
+    
+    {
+        "product_id": "rice_borokiri",
+        "product_name": "50kg Bag of Rice",
+        "category": "grains",
+        "brand": "Mama Gold",
+        "number_of_reviews": 60,
+        "url": "https://borokirimarket.com/rice-50kg",
+        "image_url": "https://www.bellanaija.com/wp-content/uploads/2021/07/bag-of-rice.jpg",
+        "price": 75500,
+        "availability": true,
+        "average_rating": 4.7,
+        "store": { "name": "Borokiri Market", "website_url": "https://borokirimarket.com", "location": "Rivers" }
+    },
+    {
+        "product_id": "beans_borokiri",
+        "product_name": "50kg Bag of White Beans",
+        "category": "grains",
+        "brand": "Local Market",
+        "number_of_reviews": 50,
+        "url": "https://borokirimarket.com/beans-50kg",
+        "image_url": "https://www.nigerianfoodtv.com/wp-content/uploads/2021/06/honey-beans.jpg",
+        "price": 53000,
+        "availability": true,
+        "average_rating": 4.5,
+        "store": { "name": "Borokiri Market", "website_url": "https://borokirimarket.com", "location": "Rivers" }
+    },
+    {
+        "product_id": "tomato_borokiri",
+        "product_name": "1 Basket of Tomatoes",
+        "category": "vegetables",
+        "brand": "Local Farmers",
+        "number_of_reviews": 45,
+        "url": "https://borokirimarket.com/tomato-basket",
+        "image_url": "https://media.istockphoto.com/id/1131501837/photo/red-tomatoes.jpg",
+        "price": 28500,
+        "availability": true,
+        "average_rating": 4.3,
+        "store": { "name": "Borokiri Market", "website_url": "https://borokirimarket.com", "location": "Rivers" }
+    },
+    {
+        "product_id": "onion_borokiri",
+        "product_name": "1 Basket of Onions",
+        "category": "vegetables",
+        "brand": "Fresh Farm",
+        "number_of_reviews": 40,
+        "url": "https://borokirimarket.com/onions-basket",
+        "image_url": "https://www.tradekey.com/images/uploadedimages/products/5/2/3/218125-3.jpg",
+        "price": 18500,
+        "availability": true,
+        "average_rating": 4.2,
+        "store": { "name": "Borokiri Market", "website_url": "https://borokirimarket.com", "location": "Rivers" }
+    },
+    {
+        "product_id": "garri_borokiri",
+        "product_name": "50kg Bag of White Garri",
+        "category": "grains",
+        "brand": "Local Market",
+        "number_of_reviews": 52,
+        "url": "https://borokirimarket.com/garri-50kg",
+        "image_url": "https://www.finelib.com/images/listings/36213.jpg",
+        "price": 35500,
+        "availability": true,
+        "average_rating": 4.4,
+        "store": { "name": "Borokiri Market", "website_url": "https://borokirimarket.com", "location": "Rivers" }
+    }
+      
+          
+          
+      
+      
+      
+      
+
+
+  ]
+  

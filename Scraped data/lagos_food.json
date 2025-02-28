@@ -1,0 +1,440 @@
+[
+    
+    {
+        "product_id": "rice_oke_arin",
+        "product_name": "50kg Bag of Rice",
+        "category": "foodstuff",
+        "brand": "Local",
+        "number_of_reviews": 12,
+        "url": "https://www.example.com/rice-oke-arin",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bags_of_rice.jpg",
+        "price": 65000,
+        "availability": true,
+        "average_rating": 4.5,
+        "store": {
+        "name": "Oke Arin Market",
+        "website_url": "https://www.example.com/oke-arin",
+        "location": "Lagos"
+        }
+    },
+    {
+        "product_id": "beans_oke_arin",
+        "product_name": "50kg Bag of Beans",
+        "category": "foodstuff",
+        "brand": "Oloyin",
+        "number_of_reviews": 8,
+        "url": "https://www.example.com/beans-oke-arin",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Beans_pile.jpg",
+        "price": 55000,
+        "availability": true,
+        "average_rating": 4.2,
+        "store": {
+        "name": "Oke Arin Market",
+        "website_url": "https://www.example.com/oke-arin",
+        "location": "Lagos"
+        }
+    },
+    {
+        "product_id": "tomato_oke_arin",
+        "product_name": "Basket of Tomatoes",
+        "category": "foodstuff",
+        "brand": "Fresh Tomatoes",
+        "number_of_reviews": 10,
+        "url": "https://www.example.com/tomato-oke-arin",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+        "price": 18000,
+        "availability": true,
+        "average_rating": 4.3,
+        "store": {
+        "name": "Oke Arin Market",
+        "website_url": "https://www.example.com/oke-arin",
+        "location": "Lagos"
+        }
+    },
+    {
+        "product_id": "garri_oke_arin",
+        "product_name": "50kg Bag of Garri",
+        "category": "foodstuff",
+        "brand": "Ijebu",
+        "number_of_reviews": 6,
+        "url": "https://www.example.com/garri-oke-arin",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Garri_Yellow.jpg",
+        "price": 42000,
+        "availability": true,
+        "average_rating": 4.1,
+        "store": {
+        "name": "Oke Arin Market",
+        "website_url": "https://www.example.com/oke-arin",
+        "location": "Lagos"
+        }
+    },
+    {
+        "product_id": "onion_oke_arin",
+        "product_name": "Bag of Onions (100kg)",
+        "category": "foodstuff",
+        "brand": "Red Onions",
+        "number_of_reviews": 7,
+        "url": "https://www.example.com/onion-oke-arin",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Red_onions.jpg",
+        "price": 70000,
+        "availability": true,
+        "average_rating": 4.0,
+        "store": {
+        "name": "Oke Arin Market",
+        "website_url": "https://www.example.com/oke-arin",
+        "location": "Lagos"
+        }
+    },
+    
+      
+    {
+        "product_id": "rice_oyingbo",
+        "product_name": "50kg Bag of Rice",
+        "category": "Foodstuff",
+        "brand": "Mama Gold",
+        "number_of_reviews": 121,
+        "url": "https://example.com/mama-gold-rice",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bags_of_rice.jpg",
+        "price": 58500,
+        "availability": true,
+        "average_rating": 4.6,
+        "store": {
+            "name": "Oyingbo Market",
+            "website_url": "https://oyingbomarket.ng",
+            "location": "Lagos, Nigeria"
+        }
+    },
+    {
+        "product_id": "beans_oyingbo",
+        "product_name": "Oloyin Beans (1kg)",
+        "category": "Foodstuff",
+        "brand": "Local Farm",
+        "number_of_reviews": 88,
+        "url": "https://example.com/oloyin-beans",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Beans_pile.jpg",
+        "price": 2200,
+        "availability": true,
+        "average_rating": 4.5,
+        "store": {
+            "name": "Oyingbo Market",
+            "website_url": "https://oyingbomarket.ng",
+            "location": "Lagos, Nigeria"
+        }
+    },
+    {
+        "product_id": "tomato_oyingbo",
+        "product_name": "Fresh Tomato (1 Basket)",
+        "category": "Foodstuff",
+        "brand": "Local Farm",
+        "number_of_reviews": 80,
+        "url": "https://example.com/fresh-tomato",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+        "price": 19000,
+        "availability": true,
+        "average_rating": 4.2,
+        "store": {
+            "name": "Oyingbo Market",
+            "website_url": "https://oyingbomarket.ng",
+            "location": "Lagos, Nigeria"
+        }
+    },
+    {
+        "product_id": "garri_oyingbo",
+        "product_name": "Yellow Garri (1kg)",
+        "category": "Foodstuff",
+        "brand": "Ijebu",
+        "number_of_reviews": 105,
+        "url": "https://example.com/ijebu-garri",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Garri_Yellow.jpg",
+        "price": 1800,
+        "availability": true,
+        "average_rating": 4.6,
+        "store": {
+            "name": "Oyingbo Market",
+            "website_url": "https://oyingbomarket.ng",
+            "location": "Lagos, Nigeria"
+        }
+    },
+    {
+        "product_id": "onion_oyingbo",
+        "product_name": "Onions (1 Bag)",
+        "category": "Foodstuff",
+        "brand": "Sokoto Onions",
+        "number_of_reviews": 70,
+        "url": "https://example.com/onions",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Red_onions.jpg",
+        "price": 26000,
+        "availability": true,
+        "average_rating": 4.3,
+        "store": {
+            "name": "Oyingbo Market",
+            "website_url": "https://oyingbomarket.ng",
+            "location": "Lagos, Nigeria"
+        }
+    },
+    
+    {
+        "product_id": "rice_mile12",
+        "product_name": "50kg Bag of Rice",
+        "category": "Foodstuff",
+        "brand": "Royal Stallion",
+        "number_of_reviews": 98,
+        "url": "https://example.com/royal-stallion-rice",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bags_of_rice.jpg",
+        "price": 57000,
+        "availability": true,
+        "average_rating": 4.7,
+        "store": {
+            "name": "Mile 12 Market",
+            "website_url": "https://mile12market.ng",
+            "location": "Lagos, Nigeria"
+        }
+    },
+    {
+        "product_id": "beans_mile12",
+        "product_name": "Brown Beans (1kg)",
+        "category": "Foodstuff",
+        "brand": "Local Farm",
+        "number_of_reviews": 85,
+        "url": "https://example.com/brown-beans",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Beans_pile.jpg",
+        "price": 2000,
+        "availability": true,
+        "average_rating": 4.4,
+        "store": {
+            "name": "Mile 12 Market",
+            "website_url": "https://mile12market.ng",
+            "location": "Lagos, Nigeria"
+        }
+    },
+    {
+        "product_id": "tomato_mile12",
+        "product_name": "Fresh Tomato (1 Basket)",
+        "category": "Foodstuff",
+        "brand": "Local Farm",
+        "number_of_reviews": 112,
+        "url": "https://example.com/fresh-tomato",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+        "price": 18500,
+        "availability": true,
+        "average_rating": 4.3,
+        "store": {
+            "name": "Mile 12 Market",
+            "website_url": "https://mile12market.ng",
+            "location": "Lagos, Nigeria"
+        }
+    },
+    {
+        "product_id": "garri_mile12",
+        "product_name": "White Garri (1kg)",
+        "category": "Foodstuff",
+        "brand": "Ijebu",
+        "number_of_reviews": 95,
+        "url": "https://example.com/ijebu-garri",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Garri_Yellow.jpg",
+        "price": 1600,
+        "availability": true,
+        "average_rating": 4.5,
+        "store": {
+            "name": "Mile 12 Market",
+            "website_url": "https://mile12market.ng",
+            "location": "Lagos, Nigeria"
+        }
+    },
+    {
+        "product_id": "onion_mile12",
+        "product_name": "Onions (1 Bag)",
+        "category": "Foodstuff",
+        "brand": "Kano Onions",
+        "number_of_reviews": 78,
+        "url": "https://example.com/onions",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Red_onions.jpg",
+        "price": 25000,
+        "availability": true,
+        "average_rating": 4.2,
+        "store": {
+            "name": "Mile 12 Market",
+            "website_url": "https://mile12market.ng",
+            "location": "Lagos, Nigeria"
+        }
+    },
+    
+    {
+        "product_id": "rice_mushin",
+        "product_name": "50kg Bag of Rice",
+        "category": "Foodstuff",
+        "brand": "Mama Gold",
+        "number_of_reviews": 75,
+        "url": "https://example.com/mama-gold-rice",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bags_of_rice.jpg",
+        "price": 56000,
+        "availability": true,
+        "average_rating": 4.6,
+        "store": {
+            "name": "Mushin Market",
+            "website_url": "https://mushinmarket.ng",
+            "location": "Lagos, Nigeria"
+        }
+    },
+    {
+        "product_id": "beans_mushin",
+        "product_name": "Brown Beans (1kg)",
+        "category": "Foodstuff",
+        "brand": "Local Farm",
+        "number_of_reviews": 62,
+        "url": "https://example.com/brown-beans",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Beans_pile.jpg",
+        "price": 1900,
+        "availability": true,
+        "average_rating": 4.3,
+        "store": {
+            "name": "Mushin Market",
+            "website_url": "https://mushinmarket.ng",
+            "location": "Lagos, Nigeria"
+        }
+    },
+    {
+        "product_id": "tomato_mushin",
+        "product_name": "Fresh Tomato (1 Basket)",
+        "category": "Foodstuff",
+        "brand": "Local Farm",
+        "number_of_reviews": 97,
+        "url": "https://example.com/fresh-tomato",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+        "price": 18000,
+        "availability": true,
+        "average_rating": 4.2,
+        "store": {
+            "name": "Mushin Market",
+            "website_url": "https://mushinmarket.ng",
+            "location": "Lagos, Nigeria"
+        }
+    },
+    {
+        "product_id": "garri_mushin",
+        "product_name": "Yellow Garri (1kg)",
+        "category": "Foodstuff",
+        "brand": "Ijebu",
+        "number_of_reviews": 80,
+        "url": "https://example.com/ijebu-garri",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Garri_Yellow.jpg",
+        "price": 1700,
+        "availability": true,
+        "average_rating": 4.4,
+        "store": {
+            "name": "Mushin Market",
+            "website_url": "https://mushinmarket.ng",
+            "location": "Lagos, Nigeria"
+        }
+    },
+    {
+        "product_id": "onion_mushin",
+        "product_name": "Onions (1 Bag)",
+        "category": "Foodstuff",
+        "brand": "Kaduna Onions",
+        "number_of_reviews": 68,
+        "url": "https://example.com/onions",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Red_onions.jpg",
+        "price": 24500,
+        "availability": true,
+        "average_rating": 4.1,
+        "store": {
+            "name": "Mushin Market",
+            "website_url": "https://mushinmarket.ng",
+            "location": "Lagos, Nigeria"
+        }
+    },
+
+    
+    {
+        "product_id": "rice_balogun",
+        "product_name": "50kg Bag of Rice",
+        "category": "Foodstuff",
+        "brand": "Royal Stallion",
+        "number_of_reviews": 82,
+        "url": "https://example.com/royal-stallion-rice",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bags_of_rice.jpg",
+        "price": 58000,
+        "availability": true,
+        "average_rating": 4.7,
+        "store": {
+            "name": "Balogun Market",
+            "website_url": "https://balogunmarket.ng",
+            "location": "Lagos, Nigeria"
+        }
+    },
+    {
+        "product_id": "beans_balogun",
+        "product_name": "Brown Beans (1kg)",
+        "category": "Foodstuff",
+        "brand": "Local Farm",
+        "number_of_reviews": 66,
+        "url": "https://example.com/brown-beans",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Beans_pile.jpg",
+        "price": 2000,
+        "availability": true,
+        "average_rating": 4.4,
+        "store": {
+            "name": "Balogun Market",
+            "website_url": "https://balogunmarket.ng",
+            "location": "Lagos, Nigeria"
+        }
+    },
+    {
+        "product_id": "tomato_balogun",
+        "product_name": "Fresh Tomato (1 Basket)",
+        "category": "Foodstuff",
+        "brand": "Local Farm",
+        "number_of_reviews": 102,
+        "url": "https://example.com/fresh-tomato",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+        "price": 19000,
+        "availability": true,
+        "average_rating": 4.3,
+        "store": {
+            "name": "Balogun Market",
+            "website_url": "https://balogunmarket.ng",
+            "location": "Lagos, Nigeria"
+        }
+    },
+    {
+        "product_id": "garri_balogun",
+        "product_name": "Yellow Garri (1kg)",
+        "category": "Foodstuff",
+        "brand": "Ijebu",
+        "number_of_reviews": 85,
+        "url": "https://example.com/ijebu-garri",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Garri_Yellow.jpg",
+        "price": 1800,
+        "availability": true,
+        "average_rating": 4.5,
+        "store": {
+            "name": "Balogun Market",
+            "website_url": "https://balogunmarket.ng",
+            "location": "Lagos, Nigeria"
+        }
+    },
+    {
+        "product_id": "onion_balogun",
+        "product_name": "Onions (1 Bag)",
+        "category": "Foodstuff",
+        "brand": "Kaduna Onions",
+        "number_of_reviews": 74,
+        "url": "https://example.com/onions",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Red_onions.jpg",
+        "price": 25500,
+        "availability": true,
+        "average_rating": 4.2,
+        "store": {
+            "name": "Balogun Market",
+            "website_url": "https://balogunmarket.ng",
+            "location": "Lagos, Nigeria"
+        }
+    }
+    
+    
+    
+    
+
+    
+]

@@ -1,0 +1,265 @@
+[
+    {
+        "product_id": "rice_singer",
+        "product_name": "Rice (50kg Bag)",
+        "category": "foodstuff",
+        "brand": "Local",
+        "number_of_reviews": 0,
+        "url": "https://www.tradekey.com/rice-product",
+        "image_url": "https://www.tradekey.com/rice-image.jpg",
+        "price": 62000,
+        "availability": true,
+        "average_rating": 0,
+        "store": {
+            "name": "Singer Market",
+            "website_url": "N/A",
+            "location": "Kano"
+        }
+    },
+    {
+        "product_id": "beans_singer",
+        "product_name": "Beans (Oloyin, 50kg Bag)",
+        "category": "foodstuff",
+        "brand": "Local",
+        "number_of_reviews": 0,
+        "url": "https://www.tradekey.com/beans-product",
+        "image_url": "https://www.tradekey.com/beans-image.jpg",
+        "price": 59000,
+        "availability": true,
+        "average_rating": 0,
+        "store": {
+            "name": "Singer Market",
+            "website_url": "N/A",
+            "location": "Kano"
+        }
+    },
+    {
+        "product_id": "tomato_singer",
+        "product_name": "Tomatoes (Basket)",
+        "category": "foodstuff",
+        "brand": "Local",
+        "number_of_reviews": 0,
+        "url": "https://www.tradekey.com/tomato-product",
+        "image_url": "https://www.tradekey.com/tomato-image.jpg",
+        "price": 21000,
+        "availability": true,
+        "average_rating": 0,
+        "store": {
+            "name": "Singer Market",
+            "website_url": "N/A",
+            "location": "Kano"
+        }
+    },
+    {
+        "product_id": "garri_singer",
+        "product_name": "Garri (Yellow, 50kg Bag)",
+        "category": "foodstuff",
+        "brand": "Local",
+        "number_of_reviews": 0,
+        "url": "https://www.tradekey.com/garri-product",
+        "image_url": "https://www.tradekey.com/garri-image.jpg",
+        "price": 37000,
+        "availability": true,
+        "average_rating": 0,
+        "store": {
+            "name": "Singer Market",
+            "website_url": "N/A",
+            "location": "Kano"
+        }
+    },
+    {
+        "product_id": "onion_singer",
+        "product_name": "Onion (Bag)",
+        "category": "foodstuff",
+        "brand": "Local",
+        "number_of_reviews": 0,
+        "url": "https://www.tradekey.com/onion-product",
+        "image_url": "https://www.tradekey.com/onion-image.jpg",
+        "price": 38500,
+        "availability": true,
+        "average_rating": 0,
+        "store": {
+            "name": "Singer Market",
+            "website_url": "N/A",
+            "location": "Kano"
+        }
+    },
+    
+    {
+        "product_id": "rice_dawanau",
+        "product_name": "Rice (50kg Bag)",
+        "category": "foodstuff",
+        "brand": "Local",
+        "number_of_reviews": 0,
+        "url": "https://www.tradekey.com/rice-product",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Rice_grains.jpg",
+        "price": 61500,
+        "availability": true,
+        "average_rating": 0,
+        "store": {
+            "name": "Dawanau International Grains Market",
+            "website_url": "N/A",
+            "location": "Kano"
+        }
+    },
+    {
+        "product_id": "beans_dawanau",
+        "product_name": "Beans (Oloyin, 50kg Bag)",
+        "category": "foodstuff",
+        "brand": "Local",
+        "number_of_reviews": 0,
+        "url": "https://www.tradekey.com/beans-product",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Black-eyed-peas.jpg",
+        "price": 58500,
+        "availability": true,
+        "average_rating": 0,
+        "store": {
+            "name": "Dawanau International Grains Market",
+            "website_url": "N/A",
+            "location": "Kano"
+        }
+    },
+    {
+        "product_id": "tomato_dawanau",
+        "product_name": "Tomatoes (Basket)",
+        "category": "foodstuff",
+        "brand": "Local",
+        "number_of_reviews": 0,
+        "url": "https://www.tradekey.com/tomato-product",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+        "price": 22000,
+        "availability": true,
+        "average_rating": 0,
+        "store": {
+            "name": "Dawanau International Grains Market",
+            "website_url": "N/A",
+            "location": "Kano"
+        }
+    },
+    {
+        "product_id": "garri_dawanau",
+        "product_name": "Garri (Yellow, 50kg Bag)",
+        "category": "foodstuff",
+        "brand": "Local",
+        "number_of_reviews": 0,
+        "url": "https://www.tradekey.com/garri-product",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Garri_yellow.jpg",
+        "price": 36500,
+        "availability": true,
+        "average_rating": 0,
+        "store": {
+            "name": "Dawanau International Grains Market",
+            "website_url": "N/A",
+            "location": "Kano"
+        }
+    },
+    {
+        "product_id": "onion_dawanau",
+        "product_name": "Onion (Bag)",
+        "category": "foodstuff",
+        "brand": "Local",
+        "number_of_reviews": 0,
+        "url": "https://www.tradekey.com/onion-product",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Onions.jpg",
+        "price": 39000,
+        "availability": true,
+        "average_rating": 0,
+        "store": {
+            "name": "Dawanau International Grains Market",
+            "website_url": "N/A",
+            "location": "Kano"
+        }
+    },
+    
+    {
+        "product_id": "rice_kurmi",
+        "product_name": "Rice (50kg Bag)",
+        "category": "foodstuff",
+        "brand": "Local",
+        "number_of_reviews": 0,
+        "url": "https://www.tradekey.com/rice-product",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Rice_grains.jpg",
+        "price": 62000,
+        "availability": true,
+        "average_rating": 0,
+        "store": {
+            "name": "Kurmi Market",
+            "website_url": "N/A",
+            "location": "Kano"
+        }
+    },
+    {
+        "product_id": "beans_kurmi",
+        "product_name": "Beans (Oloyin, 50kg Bag)",
+        "category": "foodstuff",
+        "brand": "Local",
+        "number_of_reviews": 0,
+        "url": "https://www.tradekey.com/beans-product",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Black-eyed-peas.jpg",
+        "price": 57000,
+        "availability": true,
+        "average_rating": 0,
+        "store": {
+            "name": "Kurmi Market",
+            "website_url": "N/A",
+            "location": "Kano"
+        }
+    },
+    {
+        "product_id": "tomato_kurmi",
+        "product_name": "Tomatoes (Basket)",
+        "category": "foodstuff",
+        "brand": "Local",
+        "number_of_reviews": 0,
+        "url": "https://www.tradekey.com/tomato-product",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+        "price": 23500,
+        "availability": true,
+        "average_rating": 0,
+        "store": {
+            "name": "Kurmi Market",
+            "website_url": "N/A",
+            "location": "Kano"
+        }
+    },
+    {
+        "product_id": "garri_kurmi",
+        "product_name": "Garri (Yellow, 50kg Bag)",
+        "category": "foodstuff",
+        "brand": "Local",
+        "number_of_reviews": 0,
+        "url": "https://www.tradekey.com/garri-product",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Garri_yellow.jpg",
+        "price": 37000,
+        "availability": true,
+        "average_rating": 0,
+        "store": {
+            "name": "Kurmi Market",
+            "website_url": "N/A",
+            "location": "Kano"
+        }
+    },
+    {
+        "product_id": "onion_kurmi",
+        "product_name": "Onion (Bag)",
+        "category": "foodstuff",
+        "brand": "Local",
+        "number_of_reviews": 0,
+        "url": "https://www.tradekey.com/onion-product",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Onions.jpg",
+        "price": 40500,
+        "availability": true,
+        "average_rating": 0,
+        "store": {
+            "name": "Kurmi Market",
+            "website_url": "N/A",
+            "location": "Kano"
+        }
+    }
+
+    
+    
+
+    
+    
+]
